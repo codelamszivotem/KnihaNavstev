@@ -1,10 +1,10 @@
-##Kniha návštěv
+## Kniha návštěv
 
-#Přehled
+# Přehled
 
 Jedná se o jednoduchou aplikaci v PHP pro správu knihy návštěv, která umožňuje uživatelům odesílat zprávy se svým jménem, prohlížet všechny zprávy, vidět nejaktivnější autory a seznam posledních návštěvníků. Aplikace využívá MySQL pro ukládání dat a dodržuje základní strukturu podobnou MVC s validací vstupů a ochranou proti XSS útokům.
 
-#Funkce
+# Funkce
 
 
 
